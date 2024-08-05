@@ -1,7 +1,7 @@
 # 777 Airline Livery Model
 ![777](airplane.png)
 
-This repository contains a 3D model of an aircraft, specifically designed for product display purposes related to an airline livery. This model is intended for visualization and demonstration within a controlled environment and is **not** designed for distribution or commercial use.
+Designed in blender the [Boeing 777](https://www.boeing.com/commercial/777), specifically designed for product display purposes related to an airline livery. This model is intended for visualization and demonstration within a controlled environment and is **not** designed for distribution or commercial use.
 
 ## Features
 
